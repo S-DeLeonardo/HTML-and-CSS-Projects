@@ -1,0 +1,10 @@
+body {
+    font: 16px Arial, sans-serif;
+} 
+
+.rsvp {
+width: 50%;
+margin: 4px 0;
+border: 2px solid green;
+border-radius: 4px;
+}
