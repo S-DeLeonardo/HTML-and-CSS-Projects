@@ -1,0 +1,12 @@
+.navbar {
+    overflow: hidden;
+    background-color: cornflowerblue;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a:hover {
+    background: blue;
+    color:white;
+}
